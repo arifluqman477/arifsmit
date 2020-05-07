@@ -1,0 +1,51 @@
+
+body{
+    text-align: center;
+    background-color: rgb(241, 237, 168);
+}
+h1{
+    color: blueviolet;
+}
+
+fieldset{
+    background-color: blueviolet;
+    text-align: left;
+    width: 200px;
+}
+th{
+    width: 170px;
+    padding-top: 20px;
+}
+.increase{
+    padding-right: 40px;
+}
+.center{
+    text-align: center;
+}
+
+
+
+button{
+    height: 30px;
+    width: 90px;
+    border-color: darkred;
+    color: darkred;
+    font-size: 16px;
+}
+button:hover{
+    background-color: darkred;
+    color: white;
+}
+
+.green{
+    font-size: 22px;
+    font-weight:bold;
+    color: darkgreen;
+}
+.purpel{
+    color: darkmagenta;
+    font-weight: bold;
+}
+.goback{
+    font-weight: bold;
+}
